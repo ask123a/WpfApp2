@@ -19,8 +19,8 @@ namespace WpfApp2
         public MainWindow()
         {
             InitializeComponent();
-        }
-
+        } 
+         
         private void TextBox_TextChanged(object sender, TextChangedEventArgs e)
         {
             var targetTextBox = sender as TextBox;
