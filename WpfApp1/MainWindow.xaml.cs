@@ -23,7 +23,7 @@ namespace WpfApp2
             {"綠茶大杯", 60 },
             {"綠茶小杯", 40 },
             {"可樂大杯", 50 },
-            {"可樂小杯", 30 }
+            {"可樂小杯", 30 } 
         };
 
         Dictionary<string, int> orders = new Dictionary<string, int>();

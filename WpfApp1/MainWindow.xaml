@@ -21,7 +21,7 @@
             <StackPanel Orientation="Horizontal" Grid.ColumnSpan="2" Background="Bisque">
                 <RadioButton x:Name="RadioButton1" Content="內用" Margin="80,0,0,0" FontSize="14" FontWeight="Bold" VerticalContentAlignment="Center" Checked="RadioButton_Checked"/>
                 <RadioButton x:Name="RadioButton2" Content="外帶" Margin="80,0,0,0" FontSize="14" FontWeight="Bold" VerticalContentAlignment="Center" Checked="RadioButton_Checked"/>
-            </StackPanel>
+            </StackPanel> 
         </GroupBox> 
         <StackPanel x:Name="DrinkMenuStackPanel" Orientation="Vertical" Grid.Row="1">
             <StackPanel Orientation="Horizontal" Height="36" Margin="5,2,5,2" Background="Beige">
