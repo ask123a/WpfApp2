@@ -1,0 +1,6 @@
+使用Slider避免使用者入數值錯誤
+加上RadioButton和CheckBox來記錄購買方式以及選購飲料品項
+將Slider和Label以資料繫結(data binding)連動
+使用Dictionary資料結構來儲存飲料品項和訂單內容
+動態取得使用者選取的訂單品項
+加上售價折扣算法
