@@ -28,7 +28,7 @@ namespace WpfApp2
 
         Dictionary<string, int> orders = new Dictionary<string, int>();
         string resultMessage = "";
-        string typeMessage = "內用";
+        string typeMessage = "內用"; 
 
         public MainWindow()
         {
